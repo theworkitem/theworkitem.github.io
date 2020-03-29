@@ -6,9 +6,19 @@
     <description>Recent content on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E01 - Remote</title>
+      <link>https://theworkitem.com/blog/remote/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/remote/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -16,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://theworkitem.com/about/</guid>
-      <description>About The Work Item is a show hosted by Courtny Cotten and Den Delimarsky.</description>
+      <description>About The Work Item is a show hosted by Courtny Cotten and Den Delimarsky, discussing the intricacies of product design and development, working with people and building experiences that delight customers. Every episode goes</description>
     </item>
     
   </channel>
