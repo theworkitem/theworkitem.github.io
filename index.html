@@ -91,21 +91,12 @@
     
 
     
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26345920-6"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments) };
-        gtag('js', new Date());
-        gtag('config', 'UA-26345920-6');
-    </script>
-    
-
-    
     <script type="text/javascript" async
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     
 
     <script src="https://kit.fontawesome.com/80d0187199.js" crossorigin="anonymous"></script>
+    
     
 
 </head>
@@ -140,6 +131,7 @@
         </div>
     </nav>
 
+
 <main>
     <div class="intro">
         
@@ -167,6 +159,29 @@
         <footer>
             <p class="copyright text-muted">Please wash your hands and <a href="https://staythefuckhome.com">stay at home</a>.</p>
         </footer>
+
+        
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-26345920-6', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
 
         
 
