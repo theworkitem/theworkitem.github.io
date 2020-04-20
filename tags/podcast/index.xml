@@ -6,10 +6,23 @@
     <description>Recent content in podcast on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E03 - Interview with April Speight</title>
+      <link>https://theworkitem.com/blog/interview-april-speight/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-april-speight/</guid>
+      <description>In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids and more.
+   
+You can also listen to the audio directly:
+ You can find April on the following Internet locations:
+ Twitter Twitch YouTube Her blog GitHub  Check this episode out on Apple Podcasts, Google Play Podcasts and Spotify.</description>
+    </item>
     
     <item>
       <title>S01E02 - Career Starts</title>
