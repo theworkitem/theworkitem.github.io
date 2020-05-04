@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://theworkitem.com/tags/advocate/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -49,6 +44,16 @@
   <url>
     <loc>https://theworkitem.com/tags/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/windows/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/advocate/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
