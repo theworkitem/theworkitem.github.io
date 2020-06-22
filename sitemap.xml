@@ -4,23 +4,55 @@
   
   <url>
     <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
     <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/developer/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/tags/design/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/leadership/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://theworkitem.com/tags/podcast/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/interview-clint-rutkas/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/show/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/team/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/developer/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,16 +66,6 @@
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/show/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
