@@ -6,10 +6,23 @@
     <description>Recent content in design on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E06 - Interview with Matt Swanson</title>
+      <link>https://theworkitem.com/blog/interview-with-matt-swanson/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-with-matt-swanson/</guid>
+      <description>Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.
+   
+You can also listen to the audio directly:
+ You can find Matt on the following sites:
+ Twitter GitHub Blog  And of course, we couldn&amp;rsquo;t wrap up this post without giving a shout-out to Matt&amp;rsquo;s project - Boring Rails.</description>
+    </item>
     
     <item>
       <title>S01E05 - Interview with Jin Yang</title>
