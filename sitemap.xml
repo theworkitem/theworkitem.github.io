@@ -10,12 +10,17 @@
   </url>
   
   <url>
+    <loc>https://theworkitem.com/tags/community/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/tags/engineering/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/growth/</loc>
+    <loc>https://theworkitem.com/tags/intern/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -37,11 +42,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/skills/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
@@ -52,10 +52,20 @@
   </url>
   
   <url>
+    <loc>https://theworkitem.com/tags/growth/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/blog/interview-with-dan-fernandez/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/skills/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
