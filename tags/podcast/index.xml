@@ -6,10 +6,22 @@
     <description>Recent content in podcast on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E10 - Interview with Sara Chipps</title>
+      <link>https://theworkitem.com/blog/interview-with-sara-chipps/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-with-sara-chipps/</guid>
+      <description>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;amp;A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors.
+We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
+   You can also listen to the audio directly:
+ You can find Sara on the following sites:</description>
+    </item>
     
     <item>
       <title>S01E09 - Interview with Philipp Cannons</title>
