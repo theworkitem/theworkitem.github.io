@@ -6,10 +6,21 @@
     <description>Recent content in design on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E11 - Interview with Eric Martel</title>
+      <link>https://theworkitem.com/blog/interview-eric-martel/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-eric-martel/</guid>
+      <description>We&amp;rsquo;re back after a week-long hiatus with an interview. This time, we chat with Eric Martel, Director of Artificial Intelligence and Machine Learning at Eidos-Montréal. We re-visit some of the gream games of the past, talk about console development considerations for modern games, and dig into how artificial intelligence and machine learning are going to revolutionize the engineering process.
+   
+You can also listen to the audio directly:</description>
+    </item>
     
     <item>
       <title>S01E10 - Interview with Sara Chipps</title>
