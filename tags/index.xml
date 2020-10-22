@@ -6,10 +6,23 @@
     <description>Recent content in Tags on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E14 - Interview with Richard Lander</title>
+      <link>https://theworkitem.com/blog/interview-richard-lander/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-richard-lander/</guid>
+      <description>In this episode of The Work Item we interview Richard Lander, Principal Program Manager on the .NET team at Microsoft. Richard does a deep dive on communication, being a generalist vs. specialist, and growing one&amp;rsquo;s career.
+   
+You can also listen to the audio directly:
+ You can find Richard on Twitter:
+ https://twitter.com/runfaster2000  Check this episode out on Apple Podcasts, Google Play Podcasts and Spotify.</description>
+    </item>
     
     <item>
       <title>S01E13 - Interview with Amanda Silver</title>
