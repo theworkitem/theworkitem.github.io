@@ -6,10 +6,20 @@
     <description>Recent content in Blog on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E17 - Christos Matskas on Going From Consulting to Corporate and Building Identity Tools</title>
+      <link>https://theworkitem.com/blog/interview-christos-matskas/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-christos-matskas/</guid>
+      <description>In a surprising twist, this week we chat with Christos Matskas about on topics - transitioning from consulting life to a corporate life, as well as about building identity tools and services in the cloud.
+Christos goes in depth about the aspects of his previous jobs that brought him to a fulfilling career at Microsoft, and then gives us a crash course on why it&amp;rsquo;s important to use professionally-managed identity services in your applications instead of rolling your own solution.</description>
+    </item>
     
     <item>
       <title>S01E16 - Bill Kenney on Building Brands That Last</title>
