@@ -6,10 +6,20 @@
     <description>Recent content in product on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/product/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S01E18 - Megan Risdal on Building a Career at the Intersection of Data Science and Product Management</title>
+      <link>https://theworkitem.com/blog/interview-megan-risdal/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-megan-risdal/</guid>
+      <description>Right before the Thanksgiving break, we are releasing a fresh new episode with Megan Risdal, Product Lead at Kaggle. Megan took the multi-talented route to the career she has today, and enjoys every bit of it.
+In this episode, we talk about the importance of being a multi-dimensional professional in a product role, finding the best ways to collect customer feedback, and building communities at scale.</description>
+    </item>
     
     <item>
       <title>S01E17 - Christos Matskas on Going From Consulting to Corporate and Building Identity Tools</title>

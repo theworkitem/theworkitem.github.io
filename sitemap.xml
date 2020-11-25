@@ -4,23 +4,60 @@
   
   <url>
     <loc>https://theworkitem.com/tags/azure/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/identity/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/tags/data-science/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://theworkitem.com/tags/interview/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/kaggle/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/pm/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/product/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/product-management/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/interview-megan-risdal/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/identity/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,11 +80,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/show/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,16 +112,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/pm/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/product/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,11 +240,6 @@
   <url>
     <loc>https://theworkitem.com/tags/technology/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/product-management/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
