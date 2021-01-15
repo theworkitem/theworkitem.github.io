@@ -4,14 +4,51 @@
   
   <url>
     <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
     <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/codedad/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/intentionality/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/interview-scott-hanselman/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/social/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/tiktok/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/twitter/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +71,6 @@
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
