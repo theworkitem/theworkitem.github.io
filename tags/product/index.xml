@@ -6,10 +6,20 @@
     <description>Recent content in product on The Work Item</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/product/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S02E03 - Paige Bailey on Building a Career In Artificial Intelligence and Machine Learning</title>
+      <link>https://theworkitem.com/blog/interview-paige-bailey/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/interview-paige-bailey/</guid>
+      <description>Paige Bailey is one of the few Artificial Intelligence (AI) and Machine Learning (ML) experts who is able to convey complex technical topics in an easy-to-understand and relatable language. Her Twitter feed is full of AI/ML paper recommendations, open source projects, and insights about the ever-evolving tech space.
+What was her journey like to a career in a very complex domain? What does it mean to build an inclusive AI? This week, we sit down with Paige to learn from her experience.</description>
+    </item>
     
     <item>
       <title>S02E02 - Mayuko Inoue on Building a Content Creator Career Path</title>
