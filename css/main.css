@@ -71,7 +71,15 @@ i {
 }
 
 .content > p {
-    font-size: 1.2em;
+    font-size: 1.5em;
+}
+
+.content > ul {
+    font-size: 1.5em;
+}
+
+.content > ol {
+    font-size: 1.5em;
 }
 
 .content > p > a {
