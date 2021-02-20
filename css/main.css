@@ -40,12 +40,12 @@ audio {
 
 .intro > h1 {
     color: #212121;
-    font-size: 12vh;
+    font-size: 28px;
 }
 
 .intro > h2 {
     color: #757575;
-    font-size: 3vmin;
+    font-size: 20px;
 }
 
 footer > p {
@@ -61,25 +61,29 @@ i {
 }
 
 .landing-logo {
-    width: 50%;
+    width: 43%;
 }
 
 /* Page content */
+
+.post-header > h2 {
+    font-size: 20px !important;
+}
 
 .content {
     padding-top: 20px;
 }
 
 .content > p {
-    font-size: 1.5em;
+    font-size: 18px;
 }
 
 .content > ul {
-    font-size: 1.5em;
+    font-size: 18px;
 }
 
 .content > ol {
-    font-size: 1.5em;
+    font-size: 18px
 }
 
 .content > p > a {
@@ -89,6 +93,11 @@ i {
 .content > p > a img {
     border: 0px none;
 }
+
+.content > h2 {
+    font-size: 20px !important;
+}
+
 
 /* Profile picture */
 
@@ -136,7 +145,7 @@ a:hover {
 }
 
 .item > h5 {
-    font-size: 1.2em;
+    font-size: 18px;
 }
 
 .item-tag {
