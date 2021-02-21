@@ -66,6 +66,10 @@ i {
 
 /* Page content */
 
+.post-header > h1 {
+    font-size: 28px !important;
+}
+
 .post-header > h2 {
     font-size: 20px !important;
 }
