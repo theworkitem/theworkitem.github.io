@@ -57,6 +57,13 @@
   </url>
   
   <url>
+    <loc>https://theworkitem.com/blog/building-communities-with-jess-lee/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/tags/community/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
@@ -82,8 +89,8 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/building-communities-with-jess-lee/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/going-to-space-with-charlie-kindel/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
@@ -94,13 +101,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/going-to-space-with-charlie-kindel/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/space/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
@@ -108,6 +108,13 @@
   <url>
     <loc>https://theworkitem.com/tags/vision/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/interview-paige-bailey/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -141,13 +148,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-paige-bailey/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/about/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -159,6 +159,13 @@
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/interview-mayuko-inoue/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -177,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-mayuko-inoue/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/twitch/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -199,6 +199,13 @@
   </url>
   
   <url>
+    <loc>https://theworkitem.com/blog/interview-scott-hanselman/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/tags/codedad/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
@@ -206,13 +213,6 @@
   <url>
     <loc>https://theworkitem.com/tags/intentionality/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/blog/interview-scott-hanselman/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
   </url>
   
   <url>
@@ -231,6 +231,13 @@
   </url>
   
   <url>
+    <loc>https://theworkitem.com/blog/wrap-up-episode-for-2020/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/tags/podcast/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
@@ -246,8 +253,8 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/wrap-up-episode-for-2020/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/interview-megan-risdal/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
@@ -268,8 +275,8 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-megan-risdal/</loc>
-    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/interview-christos-matskas/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
@@ -285,15 +292,15 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-christos-matskas/</loc>
+    <loc>https://theworkitem.com/tags/show/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/show/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/interview-bill-kenney/</loc>
+    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -307,15 +314,15 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-bill-kenney/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/interview-tarun-gangwani/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-tarun-gangwani/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/interview-richard-lander/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
@@ -341,13 +348,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-richard-lander/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/interview-amanda-silver/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
@@ -357,6 +357,13 @@
   <url>
     <loc>https://theworkitem.com/tags/vp/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/interview-christina-weng/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -370,15 +377,15 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/interview-christina-weng/</loc>
+    <loc>https://theworkitem.com/tags/ux/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/ux/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/interview-eric-martel/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -394,13 +401,6 @@
   <url>
     <loc>https://theworkitem.com/tags/games/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/blog/interview-eric-martel/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.7</priority>
   </url>
   
   <url>
@@ -428,15 +428,15 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/intern/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/interview-with-charmaine-lee/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/intern/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -471,15 +471,15 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/powertoys/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/interview-clint-rutkas/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/powertoys/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -488,15 +488,15 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/advocate/</loc>
-    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/interview-april-speight/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/advocate/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
