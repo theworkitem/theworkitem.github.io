@@ -3,10 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://theworkitem.com/blog/how-to-build-career-human-resources-david-daniels/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/about/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/career/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/entrepreneur/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/growth/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/hr/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/human-resources/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/start/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/startup/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -21,23 +75,6 @@
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/growth/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -66,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/how-to-build-design-career-jack-zerby/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
@@ -88,22 +120,7 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/entrepreneur/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/gumroad/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/start/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/startup/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
