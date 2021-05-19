@@ -6,10 +6,20 @@
     <description>Recent content in growth on The Work Item Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/tags/growth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#32 - Camille Fournier on Engineering Management Paths</title>
+      <link>https://theworkitem.com/blog/camille-fournier-engineering-paths/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/camille-fournier-engineering-paths/</guid>
+      <description>Setting your sights high for a career in engineering management might be an appealing endeavor, but it also means that you will be making a lot of assumptions about future roles without really knowing what those roles are truly about.
+In this episode, I sit down with Camille Fournier - a veteran CTO, speaker, and entrepreneur, to learn more about ways to map out the path to becoming a CTO (or not).</description>
+    </item>
     
     <item>
       <title>#31 - Lessons In Leadership, with Chad Fowler, VP of Technology at DEVCON</title>
