@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://theworkitem.com/blog/engineering-news-org-nicole-tibaldi/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/career/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/community/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/engineering/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/management/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/music/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/nyt/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/blog/camille-fournier-engineering-paths/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
@@ -10,19 +59,7 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/cto/</loc>
-    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/engineering/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -42,20 +79,10 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/</loc>
-    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/lessons-in-leadership-chad-fowler/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/community/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -147,16 +174,6 @@
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/management/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
