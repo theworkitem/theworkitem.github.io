@@ -6,10 +6,20 @@
     <description>Recent content in Blog on The Work Item Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#36 - Diving Into Open Source Engineering, with Jenn Creighton</title>
+      <link>https://theworkitem.com/blog/open-source-jenn-creighton/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/open-source-jenn-creighton/</guid>
+      <description>There is a bit of a chasm between requirements for building open source projects and those that are designed to be closed. Not surprisingly, it also requires a different set of skills altogether if you want to do it right.
+To learn more about this, I sat down with Jenn Creighton, Senior Staff Open Source Engineer at Apollo GraphQL. Jenn has been building scalable web experiences at companies such as Ralph Lauren, Chartbeat, and ClassPass, and is now leading the work on one of the most interesting and active open projects out there.</description>
+    </item>
     
     <item>
       <title>#35 - From Pre-Med To Product Management, with Janine Co</title>

@@ -3,17 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://theworkitem.com/blog/premed-product-janine-co/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <loc>https://theworkitem.com/blog/open-source-jenn-creighton/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
+    <loc>https://theworkitem.com/tags/apollo/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/engineer/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/engineering/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/graph-ql/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/open-source/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/sclability/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/web/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/web-development/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/premed-product-janine-co/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -52,11 +104,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/blog/busting-career-myths-laurie-barth/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
@@ -65,11 +112,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/engineer/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -97,11 +139,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/community/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/engineering/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,11 +225,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/notwaldorf/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/web/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
   </url>
   
