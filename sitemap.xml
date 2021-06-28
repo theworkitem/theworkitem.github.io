@@ -3,6 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://theworkitem.com/blog/be-a-builder-jack-zerby/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/blog/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/career/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/design/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/growth/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/leadership/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/start/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/startup/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/startups/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworkitem.com/tags/vimeo/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theworkitem.com/blog/open-source-jenn-creighton/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
@@ -12,13 +71,6 @@
   <url>
     <loc>https://theworkitem.com/tags/apollo/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/blog/</loc>
-    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
   
   <url>
@@ -47,11 +99,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/</loc>
-    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/web/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -70,11 +117,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/early-in-career/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/growth/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,11 +150,6 @@
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/career/</loc>
-    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -187,11 +224,6 @@
   </url>
   
   <url>
-    <loc>https://theworkitem.com/tags/leadership/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://theworkitem.com/tags/ruby/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
@@ -247,16 +279,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/photography/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/start/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/startup/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -334,11 +356,6 @@
   
   <url>
     <loc>https://theworkitem.com/tags/decks/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theworkitem.com/tags/design/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   

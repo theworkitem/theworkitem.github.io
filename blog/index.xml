@@ -6,10 +6,19 @@
     <description>Recent content in Blog on The Work Item Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://theworkitem.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#37 - Be A Builder, With Jack Zerby</title>
+      <link>https://theworkitem.com/blog/be-a-builder-jack-zerby/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://theworkitem.com/blog/be-a-builder-jack-zerby/</guid>
+      <description>Last time I chatted with Jack, I had pages of questions I still wanted to ask - with this episode, I attempt to address that backlog. And the more I talked to Jack, the more I realized that the theme of his entire career is - &amp;ldquo;be a builder.&amp;rdquo; As someone who started and worked at many startups, he sure knows first-hand how to do that well and in a way that is sustainable.</description>
+    </item>
     
     <item>
       <title>#36 - Diving Into Open Source Engineering, with Jenn Creighton</title>
